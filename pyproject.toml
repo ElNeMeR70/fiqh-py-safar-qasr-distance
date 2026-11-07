@@ -1,0 +1,7 @@
+[project]
+name = "fiqh-py-safar-qasr-distance"
+version = "1.0.0"
+description = "Musafir Prayer Qasr & Jam' Distance Threshold Evaluator (حاسبة مسافة القصر والجمع في السفر بالوحدات المعاصرة)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
